@@ -1,0 +1,52 @@
+html {
+    font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Kodo Mono", monospace; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+  }
+  
+  h1 {
+    font-size: 50px;
+    text-align: center;
+      
+      margin: 0;
+      padding: 50px 0;
+      color: blue;
+      text-shadow: 3px 3px 30px rgb(0, 18, 117);
+    
+  }
+
+  h2 {
+    font-size: 25px;
+    text-align: center;
+      
+      margin: 0;
+      padding: 50px;
+      color: blue;
+
+  }
+
+  p,
+  li,
+  a {
+    font-size: 15px;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: blue;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+  }
+  
